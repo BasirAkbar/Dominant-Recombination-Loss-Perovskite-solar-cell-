@@ -1,4 +1,4 @@
-# Dominant-Recombination-Loss-Perovskite-solar-cell-
+# Dominant-Recombination-Loss-Perovskite-solar-cell-using computational approaches
 1)Jupiter / VS code 
 
 2)Scikit learn
